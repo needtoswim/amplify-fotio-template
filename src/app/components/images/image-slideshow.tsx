@@ -47,8 +47,7 @@ export default function ImageSlideshow() {
   }, []);
 
   return (
-    <div className = {'.slideshow'}>
-  
+    <div className={classes.slideshow}>
       {images.map((image, index) => (
         <Image
           key={index}
