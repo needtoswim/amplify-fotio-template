@@ -29,16 +29,16 @@ export default function Home() {
         <div className={classes.slideshow}>
           <ImageSlideshow />
         </div>
-        <div>
+        {/* <div>
           <div className={classes.hero}>
             <h1>Private Galleries</h1>
-            {/* <p>Haven - safe and protected place</p> */}
-          </div>
-          <div className={classes.cta}>
+             {/* <p>Haven - safe and protected place</p> */} */}
+          {/* </div> */}
+          {/* <div className={classes.cta}>
             <Link href="introduction">Introduction</Link>
             <Link href="galleries">Galleries</Link>
           </div>
-        </div>
+        </div> */}
       </header>
       <main>
       
