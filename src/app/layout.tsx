@@ -4,7 +4,7 @@ import Header from './components/layout/header'
 import { Inter } from 'next/font/google'
  
 export const metadata = {
-  title: 'Fotio',
+  title: 'fotio-2',
 }
 
 const inter = Inter({
