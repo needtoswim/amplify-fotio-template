@@ -1,6 +1,5 @@
 import Link from 'next/link';
-import '../../globals.css'
-
+import '../../app/globals.css'
 const Header = async ({ }) => {
   
   return (
@@ -10,7 +9,7 @@ const Header = async ({ }) => {
         <div className="flex basis-3/12">
           <Link href="/">
             <div className='text-lg font-bold text-white uppercase px-4'>
-              f o t i o . m e
+              f o t i o . m e . 4
             </div>
           </Link>
         </div>

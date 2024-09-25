@@ -1,10 +1,10 @@
-import Footer from '../components/footer'
-import Header from '../components/header'
+import Footer from './components/footer'
+import Header from './components/header'
 //import  Navbar  from './components/layout/navbar'
 import { Inter } from 'next/font/google'
  
 export const metadata = {
-  title: 'fotio-3',
+  title: 'fotio-4',
 }
 
 const inter = Inter({
