@@ -1,5 +1,9 @@
 import Link from 'next/link';
+<<<<<<< HEAD
 import '../ui/globals.css'
+=======
+import '../../app/globals.css'
+>>>>>>> fotio-4
 const Header = async ({ }) => {
   
   return (

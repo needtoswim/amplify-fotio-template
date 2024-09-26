@@ -1,16 +1,13 @@
-import Footer from './components/layout/footer'
-import Header from './components/layout/header'
+import Footer from './components/footer'
+import Header from './components/header'
 //import  Navbar  from './components/layout/navbar'
-import { Inter } from 'next/font/google'
- 
+import { inter } from '@/app/ui/fonts';
+
 export const metadata = {
-  title: 'fotio-2',
+  title: 'fotio-4',
 }
 
-const inter = Inter({
-  subsets: ['latin']
-})
- 
+
 export default function RootLayout({
   
   children,

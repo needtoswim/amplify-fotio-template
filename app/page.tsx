@@ -2,8 +2,9 @@
 import Link from 'next/link';
 import './globals.css'
 import classes from "./page.module.css"
-import Backdrop from './components/layout/Backdrop'
-import ImageSlideshow from './components/images/image-slideshow'
+import Backdrop from './components/backdrop/Backdrop'
+import ImageSlideshow from './components/slideshow/image-slideshow'
+import { lusitana } from '@/app/ui/fonts';
 
 // var currUser = require('../../utils/currentUser.mjs') 
 // var authenticated = require ('../../utils/isAuthenticated')

@@ -2,17 +2,17 @@
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
 
-import Elephant from '@/assets/Elephant.jpg';
-import esperanceImg from '@/assets/esperance.jpg';
-import EsperanceMarina from '@/assets/EsperanceMarina.jpg';
-import FremantlePier from '@/assets/FremantlePier.jpg';
-import koalaImg from '@/assets/koala.jpg';
-import lakebonnyImg from '@/assets/lakebonny.jpg';
-import lincolnsrockImg from '@/assets/lincolnsrock.jpg';
-import SandyBeach from '@/assets/SandyBeach.jpg';
-import TravSunset from '@/assets/TravSunset.jpg';
-import SunsetWA from '@/assets/SunsetWA.jpg';
-import mga from '@/assets/mga.jpg';
+import Elephant from '../../../public/assets/Elephant.jpg';
+import esperanceImg from '../../../public/assets/esperance.jpg';
+import EsperanceMarina from '../../../public/assets/EsperanceMarina.jpg';
+import FremantlePier from '../../../public/assets/FremantlePier.jpg';
+import koalaImg from '../../../public/assets/koala.jpg';
+import lakebonnyImg from '../../../public/assets/lakebonny.jpg';
+import lincolnsrockImg from '../../../public/assets/lincolnsrock.jpg';
+import SandyBeach from '../../../public/assets/SandyBeach.jpg';
+import TravSunset from '../../../public/assets/TravSunset.jpg';
+import SunsetWA from '../../../public/assets/SunsetWA.jpg';
+import mga from '../../../public/assets/mga.jpg';
 
 
 
