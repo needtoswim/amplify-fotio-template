@@ -1,11 +1,12 @@
-export default function Page() {
 
-    return
-        (
-            <div className="text-xl text-red">
-    
-                <p>Dashboard Page</p>;
+
+export default function Page() {
+    return (
+        <>
+            <div className="text-lg text-white">
+                <p> Dashboard</p>
             </div>
-    
-        )
-  }
+        </>    
+    )
+
+}
