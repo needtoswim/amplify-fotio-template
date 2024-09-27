@@ -9,7 +9,7 @@ const Header = async ({ }) => {
         <div className="flex basis-3/12">
           <Link href="/">
             <div className='text-lg font-bold text-white uppercase px-4'>
-              f o t i o . m e . 4
+              f o t i o . m e . main
             </div>
           </Link>
         </div>
@@ -30,7 +30,7 @@ const Header = async ({ }) => {
           </Link>
       
           <Link
-              href='dashboard'
+              href='ui/dashboard'
               className='text-xl text-white mr-4 hover:text-white hover:text-2xl rounded'
             >
               Dashboard

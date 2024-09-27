@@ -1,4 +1,4 @@
-import Backdrop from "../components/backdrop/Backdrop";
+import Backdrop from "../backdrop/Backdrop";
  
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
