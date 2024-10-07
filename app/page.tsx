@@ -27,9 +27,9 @@ export default function Home() {
   return (
     <>
       <header className={classes.header}>
-        <div className={classes.slideshow}>
+        {/* <div className={classes.slideshow}>
           <ImageSlideshow />
-        </div>
+        </div> */}
         {/* <div>
           <div className={classes.hero}>
             <h1>Private Galleries</h1>
