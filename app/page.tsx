@@ -33,7 +33,7 @@ export default function Home() {
         {/* <div>
           <div className={classes.hero}>
             <h1>Private Galleries</h1>
-             {/* <p>Haven - safe and protected place</p> */} */}
+             {/* <p>Haven - safe and protected place</p> */} 
           {/* </div> */}
           {/* <div className={classes.cta}>
             <Link href="introduction">Introduction</Link>
